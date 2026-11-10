@@ -1,0 +1,173 @@
+{
+  "name": "LibreTV-SourceList",
+  "version": 2,
+  "exportedAt": 1794286304855,
+  "sources": [
+    {
+      "name": "360 资源",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "艾旦影视",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "1080 资源库",
+      "url": "https://api.1080zyku.com/inc/apijson.php",
+      "isAdult": false
+    },
+    {
+      "name": "爱坤资源",
+      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "爱奇艺资源",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "百度资源",
+      "url": "https://api.apibdzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "电影天堂",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源 2",
+      "url": "https://jinyingzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "量子资源",
+      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "魔都资源",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "如意资源",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "速播资源",
+      "url": "https://subocj.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "速博资源",
+      "url": "https://subocaiji.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "新狼资源",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "最大资源",
+      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "U 酷资源",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "U 酷资源 2",
+      "url": "https://api.ukuapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "豆瓣资源",
+      "url": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "茅台资源",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "牛牛资源",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "天涯影视",
+      "url": "https://tyyszyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "丫丫资源",
+      "url": "https://cj.yayazy.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "樱花资源",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
